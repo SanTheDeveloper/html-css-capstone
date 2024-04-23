@@ -170,7 +170,6 @@ input[type='text']:focus {
 
 /* Links Page */
 .links {
-  border: 1px solid green;
   width: 60%;
   margin: 0 auto;
 }
