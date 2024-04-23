@@ -25,7 +25,8 @@
     - Clicking on the image opens the source of that image in a new window
 
 **Fonts & Colors**
-H1 headers
-Font: Arial, strong, large
-Font color: #B7B6C1
-Text underlined with color #94958bs
+
+- H1 headers
+- Font: Arial, strong, large
+- Font color: #B7B6C1
+- Text underlined with color #94958bs
